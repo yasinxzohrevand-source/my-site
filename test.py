@@ -1,3 +1,4 @@
-import random 
-print(random.randint(1,10))
-print('hi')
+import random
+
+print(random.randint(1, 10))
+print("hi")
